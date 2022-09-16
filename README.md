@@ -8,6 +8,7 @@ This app is a CRUD (create, read, update and delete) ToDo API using NodeJS and s
 
 - NodeJS
 - Express (run server)
+- TypeScript (the new JavaScript =) )
 - Nodemon (monitor for any change in project and restart server automatically)
 - Mysql2 (connect to local MySQL)
 - Sequelize (ORM tool for MySQL)
