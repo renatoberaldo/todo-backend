@@ -11,8 +11,9 @@ This app is a CRUD (create, read, update and delete) ToDo API using NodeJS and s
 - Nodemon (monitor for any change in project and restart server automatically)
 - Mysql2 (connect to local MySQL)
 - Sequelize (ORM tool for MySQL)
-- Swagger (documentation) _Working to implement_
-- Winston (logger) _Working to implement_
+- Dotenv (environment variables)
+- Swagger (documentation) **_Working to implement_**
+- Winston (logger) **_Working to implement_**
 
 ## How to install:
 
@@ -30,8 +31,8 @@ This app is a CRUD (create, read, update and delete) ToDo API using NodeJS and s
 
 ##### CREATE A NEW TODO
 
-_URL:_ http://localhost:5000/todos
-_Method:_ POST
+**URL:** **http://localhost:5000/todos**
+**Method:** **POST**
 
 ```
 {
@@ -42,8 +43,8 @@ _Method:_ POST
 
 ##### GET ALL TODO
 
-_URL:_ http://localhost:5000/todos
-_Method:_ GET
+**URL:** **http://localhost:5000/todos**
+**Method:** **GET**
 
 ```
 No body
@@ -51,8 +52,8 @@ No body
 
 ##### GET TODO BY ID
 
-_URL:_ http://localhost:5000/todos/1
-_Method:_ GET
+**URL:** **http://localhost:5000/todos/1**
+**Method:** **GET**
 
 ```
 No body
@@ -60,8 +61,8 @@ No body
 
 ##### UPDATE A TODO
 
-_URL:_ http://localhost:5000/todos/1
-_Method:_ PUT
+**URL:** **http://localhost:5000/todos/1**
+**Method:** **PUT**
 
 ```
 {
@@ -72,8 +73,8 @@ _Method:_ PUT
 
 ##### DELETE A TODO
 
-_URL:_ http://localhost:5000/todos/1
-_Method:_ DELETE
+**URL:** **http://localhost:5000/todos/1**
+**Method:** **DELETE**
 
 ```
 No body
