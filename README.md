@@ -24,7 +24,6 @@ This app is a CRUD (create, read, update and delete) ToDo API using NodeJS and s
 4 - npm start
 5 - Open the Postman/Insomia at http://localhost:5000/
 6 - Create a requests following below in you favorite software
-
 ```
 
 ## Requests:
